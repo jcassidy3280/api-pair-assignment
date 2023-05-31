@@ -1,0 +1,14 @@
+#products-container {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    border: 5px solid blue;
+    width: 50%;
+    padding: 10px;
+
+}
+#posts-container {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+}
